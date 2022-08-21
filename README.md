@@ -1,5 +1,5 @@
 # Kaagi
-This is a mechanism to upload/download any file to/from the Algorand blockchain.
+An off-chain algorithm for storing data on Algorand blockchain through data sharding using transaction note fields
 
 ## Uploading Files
 The upload outputs a Transaction ID that represents the file that was uploaded
